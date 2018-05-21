@@ -82,3 +82,9 @@ class Parent extends React.Component {
 }
 
 
+//My example
+//in parent
+//<QuantityInputModal type={'number'} inputRef={el => (this.input = el)} predefinedQuantity={predefinedQuantity}/>
+//access the value by this.input.value
+//in child
+//<input ref={inputRef} className={b(block, 'input')}/>
