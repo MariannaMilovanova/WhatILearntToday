@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3be37572-ad83-48fd-b585-640882cfdb2b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ReactTips/HOC_autharization.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -29,8 +28,8 @@
       <file leaf-file-name="HOC_autharization.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ReactTips/HOC_autharization.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="564">
-              <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+            <state relative-caret-position="345">
+              <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
               <folding>
                 <element signature="e#28#69#0" expanded="true" />
               </folding>
@@ -126,12 +125,20 @@
       <workItem from="1526894243800" duration="599000" />
       <workItem from="1526901787127" duration="599000" />
       <workItem from="1526906312592" duration="606000" />
-      <workItem from="1526974486476" duration="702000" />
+      <workItem from="1526974486476" duration="1341000" />
     </task>
+    <task id="LOCAL-00001" summary="learn HOC for autharization">
+      <created>1526977200008</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526977200008</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7627000" />
+    <option name="totallyTimeSpent" value="8266000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="373" y="239" width="1256" height="810" extended-state="0" />
@@ -161,6 +168,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="learn HOC for autharization" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn HOC for autharization" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ReactTips/ReactRefs.js">
@@ -228,8 +239,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ReactTips/HOC_autharization.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+        <state relative-caret-position="345">
+          <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
           <folding>
             <element signature="e#28#69#0" expanded="true" />
           </folding>
