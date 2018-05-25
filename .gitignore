@@ -3,9 +3,9 @@
 # dependencies
 /node_modules
 
+../.idea
 /.idea
 .idea
-
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
