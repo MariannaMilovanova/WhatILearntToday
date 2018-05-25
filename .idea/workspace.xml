@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3be37572-ad83-48fd-b585-640882cfdb2b" name="Default" comment="image in div">
-      <change afterPath="$PROJECT_DIR$/CSSTricks/FlexBox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="3be37572-ad83-48fd-b585-640882cfdb2b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/ReactTips/Draggable.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSSTricks/SimpleTags.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSSTricks/SimpleTags.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -59,11 +57,26 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="210">
+              <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Draggable.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ReactTips/Draggable.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2145">
+              <caret line="194" column="14" lean-forward="true" selection-start-line="194" selection-start-column="14" selection-end-line="194" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+                <element signature="n#!!block;n#UNSAFE_componentWillReceiveProps#0;n#DraggableModal#0" />
+                <element signature="n#!!block;n#escFunction#0;n#DraggableModal#0" />
+                <element signature="n#!!block;n#handleOutsideClick#0;n#DraggableModal#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,6 +94,7 @@
         <option value="$PROJECT_DIR$/ReactTips/HOC_autharization.js" />
         <option value="$PROJECT_DIR$/CSSTricks/SimpleTags.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/ReactTips/Draggable.js" />
       </list>
     </option>
   </component>
@@ -181,7 +195,11 @@
       <workItem from="1527146085949" duration="562000" />
       <workItem from="1527146751822" duration="1277000" />
       <workItem from="1527159592086" duration="597000" />
-      <workItem from="1527164620574" duration="670000" />
+      <workItem from="1527164620574" duration="1278000" />
+      <workItem from="1527168408066" duration="599000" />
+      <workItem from="1527234817736" duration="599000" />
+      <workItem from="1527242030175" duration="411000" />
+      <workItem from="1527244942277" duration="831000" />
     </task>
     <task id="LOCAL-00001" summary="learn HOC for autharization">
       <created>1526977200008</created>
@@ -211,15 +229,21 @@
       <option name="project" value="LOCAL" />
       <updated>1527080811458</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="image in div">
+      <created>1527166241497</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1527166241497</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15965000" />
+    <option name="totallyTimeSpent" value="19013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="373" y="239" width="1256" height="810" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25060827" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -251,12 +275,10 @@
     <MESSAGE value="lodash tips" />
     <MESSAGE value="place el inside div" />
     <MESSAGE value="add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
+    <MESSAGE value="image in div" />
+    <option name="LAST_COMMIT_MESSAGE" value="image in div" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ReactTips/LodashTips.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSSTricks/FlexBox.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -579,8 +601,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="210">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactTips/Draggable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2145">
+          <caret line="194" column="14" lean-forward="true" selection-start-line="194" selection-start-column="14" selection-end-line="194" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <element signature="n#!!block;n#UNSAFE_componentWillReceiveProps#0;n#DraggableModal#0" />
+            <element signature="n#!!block;n#escFunction#0;n#DraggableModal#0" />
+            <element signature="n#!!block;n#handleOutsideClick#0;n#DraggableModal#0" />
+          </folding>
         </state>
       </provider>
     </entry>
