@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3be37572-ad83-48fd-b585-640882cfdb2b" name="Default" comment=" draggable">
-      <change afterPath="$PROJECT_DIR$/IDETricks/HowToChangeFileExt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,8 +21,20 @@
       <file leaf-file-name="ReactRefs.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReactTips/ReactRefs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1335">
-              <caret line="89" column="2" selection-start-line="89" selection-start-column="2" selection-end-line="89" selection-end-column="2" />
+            <state relative-caret-position="42">
+              <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReactWidgets.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ReactTips/ReactWidgets.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,8 +97,8 @@
       <file leaf-file-name="Prettier.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReactTips/Prettier.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="6" selection-start-line="15" selection-start-column="2" selection-end-line="20" selection-end-column="6" />
+            <state relative-caret-position="285">
+              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -95,9 +106,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HowToChangeFileExt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/IDETricks/HowToChangeFileExt">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="HowToChangeFileExt.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IDETricks/HowToChangeFileExt.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -115,6 +133,9 @@
         <option value="$PROJECT_DIR$/ReactTips/Draggable.js" />
         <option value="$PROJECT_DIR$/ReactTips/Prettier.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/IDETricks/HowToChangeFileExt" />
+        <option value="$PROJECT_DIR$/IDETricks/HowToChangeFileExt.js" />
+        <option value="$PROJECT_DIR$/ReactTips/ReactWidgets.js" />
       </list>
     </option>
   </component>
@@ -128,8 +149,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="459" />
-    <option name="y" value="171" />
+    <option name="x" value="510" />
+    <option name="y" value="183" />
     <option name="width" value="1246" />
     <option name="height" value="810" />
   </component>
@@ -138,6 +159,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,7 +186,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,7 +239,14 @@
       <workItem from="1527254734485" duration="835000" />
       <workItem from="1527257008066" duration="539000" />
       <workItem from="1527262006775" duration="640000" />
-      <workItem from="1527581118892" duration="203000" />
+      <workItem from="1527581118892" duration="901000" />
+      <workItem from="1527601777664" duration="599000" />
+      <workItem from="1527606003197" duration="1610000" />
+      <workItem from="1527612420872" duration="600000" />
+      <workItem from="1527660752296" duration="608000" />
+      <workItem from="1527664925711" duration="600000" />
+      <workItem from="1527675578913" duration="15000" />
+      <workItem from="1527691845292" duration="74000" />
     </task>
     <task id="LOCAL-00001" summary="prettier">
       <created>1527262452523</created>
@@ -227,19 +255,19 @@
       <option name="project" value="LOCAL" />
       <updated>1527262452523</updated>
     </task>
-    <task id="LOCAL-00002" summary="lodash tips">
-      <created>1526980752065</created>
+    <task id="LOCAL-00002" summary=" draggable">
+      <created>1527581364564</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1526980752065</updated>
+      <updated>1527581364564</updated>
     </task>
-    <task id="LOCAL-00003" summary="place el inside div">
-      <created>1527080722627</created>
+    <task id="LOCAL-00003" summary="change file extension manually">
+      <created>1527581413871</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1527080722628</updated>
+      <updated>1527581413871</updated>
     </task>
     <task id="LOCAL-00004" summary="add gitignore">
       <created>1527080811458</created>
@@ -262,26 +290,26 @@
       <option name="project" value="LOCAL" />
       <updated>1527254967146</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="397000" />
+    <option name="totallyTimeSpent" value="5201000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="459" y="171" width="1246" height="810" extended-state="0" />
+    <frame x="510" y="183" width="1246" height="810" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2502044" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -297,14 +325,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" draggable" />
+    <MESSAGE value="change file extension manually" />
+    <option name="LAST_COMMIT_MESSAGE" value="change file extension manually" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CSSTricks/SimpleTags.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ReactTips/ReactRefs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1335">
@@ -577,13 +603,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ReactTips/ReactRefs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="89" column="2" selection-start-line="89" selection-start-column="2" selection-end-line="89" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ReactTips/HOC_autharization.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -595,8 +614,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSSTricks/Tags.css" />
-    <entry file="file://$PROJECT_DIR$/ReactTips/LodashTips.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDETricks/HowToChangeFileExt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSSTricks/FlexBox.css">
       <provider selected="true" editor-type-id="text-editor" />
@@ -621,25 +654,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/ReactTips/LodashTips.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ReactTips/Prettier.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="6" selection-start-line="15" selection-start-column="2" selection-end-line="20" selection-end-column="6" />
+        <state relative-caret-position="285">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IDETricks/HowToChangeFileExt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/ReactTips/ReactRefs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactTips/ReactWidgets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
