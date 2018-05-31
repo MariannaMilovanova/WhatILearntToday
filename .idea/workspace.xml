@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3be37572-ad83-48fd-b585-640882cfdb2b" name="Default" comment=" draggable">
+    <list default="true" id="3be37572-ad83-48fd-b585-640882cfdb2b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,17 +21,17 @@
       <file leaf-file-name="ReactRefs.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReactTips/ReactRefs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
+            <state relative-caret-position="870">
               <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReactWidgets.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReactWidgets.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReactTips/ReactWidgets.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#0#45#0" expanded="true" />
               </folding>
@@ -39,14 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HOC_autharization.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ReactTips/HOC_autharization.js">
+      <file leaf-file-name="React16.3.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ReactTips/React16.3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-              <folding>
-                <element signature="e#28#69#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -126,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ReactTips/React16.3.js" />
         <option value="$PROJECT_DIR$/ReactTips/ReactRefs.js" />
         <option value="$PROJECT_DIR$/ReactTips/HOC_autharization.js" />
         <option value="$PROJECT_DIR$/CSSTricks/SimpleTags.css" />
@@ -136,6 +132,7 @@
         <option value="$PROJECT_DIR$/IDETricks/HowToChangeFileExt" />
         <option value="$PROJECT_DIR$/IDETricks/HowToChangeFileExt.js" />
         <option value="$PROJECT_DIR$/ReactTips/ReactWidgets.js" />
+        <option value="$PROJECT_DIR$/ReactTips/React16.3.js" />
       </list>
     </option>
   </component>
@@ -246,7 +243,8 @@
       <workItem from="1527660752296" duration="608000" />
       <workItem from="1527664925711" duration="600000" />
       <workItem from="1527675578913" duration="15000" />
-      <workItem from="1527691845292" duration="74000" />
+      <workItem from="1527691845292" duration="170000" />
+      <workItem from="1527749889212" duration="169000" />
     </task>
     <task id="LOCAL-00001" summary="prettier">
       <created>1527262452523</created>
@@ -269,12 +267,12 @@
       <option name="project" value="LOCAL" />
       <updated>1527581413871</updated>
     </task>
-    <task id="LOCAL-00004" summary="add gitignore">
-      <created>1527080811458</created>
+    <task id="LOCAL-00004" summary="widgets">
+      <created>1527691926911</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1527080811458</updated>
+      <updated>1527691926911</updated>
     </task>
     <task id="LOCAL-00005" summary="image in div">
       <created>1527166241497</created>
@@ -290,11 +288,11 @@
       <option name="project" value="LOCAL" />
       <updated>1527254967146</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5201000" />
+    <option name="totallyTimeSpent" value="5466000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="510" y="183" width="1246" height="810" extended-state="0" />
@@ -328,16 +326,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" draggable" />
     <MESSAGE value="change file extension manually" />
-    <option name="LAST_COMMIT_MESSAGE" value="change file extension manually" />
+    <MESSAGE value="widgets" />
+    <option name="LAST_COMMIT_MESSAGE" value="widgets" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ReactTips/ReactRefs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="89" column="2" selection-start-line="89" selection-start-column="2" selection-end-line="89" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ReactTips/HOC_autharization.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -669,7 +661,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ReactTips/ReactRefs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
+        <state relative-caret-position="870">
           <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
         </state>
       </provider>
@@ -677,10 +669,17 @@
     <entry file="file://$PROJECT_DIR$/ReactTips/ReactWidgets.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#0#45#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactTips/React16.3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
