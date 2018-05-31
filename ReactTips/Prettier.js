@@ -5,7 +5,7 @@
 /*
 
 "scripts": {
-  + "precommit": "lint-staged"
+  "precommit": "lint-staged"
 
 */
 
