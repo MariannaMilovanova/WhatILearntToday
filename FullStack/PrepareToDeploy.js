@@ -21,5 +21,12 @@ app.listen(PORT);
 //install HEROKU CLI
 
 
-//in T: heroku login
+//in T: heroku login - on cmd, git bush on windows do not works
 //in T: heroku create
+// git remote add heroku https;//git.heroku.....git
+const nextStaep= 'after some code changes';
+//git push heroku master
+
+//heroku open - to open project in browser
+
+//heroku logs - to see the logs
