@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3be37572-ad83-48fd-b585-640882cfdb2b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PureJS/AsyncAwait.js" />
+    <list default="true" id="3be37572-ad83-48fd-b585-640882cfdb2b" name="Default" comment="async await construction">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PureJS/AsyncAwait.js" afterPath="$PROJECT_DIR$/PureJS/AsyncAwait.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,18 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReactWidgets.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ReactTips/ReactWidgets.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#45#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="React16.3.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReactTips/React16.3.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -88,9 +77,24 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1528803295295" expanded="true" signature="43691:43733" ph="..." />
+                <marker date="1528803295295" expanded="true" signature="43691:43751" ph="..." />
+                <marker date="1528803295295" expanded="true" signature="43691:43764" ph="..." />
+                <marker date="1528803295295" expanded="true" signature="43691:43779" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,8 +124,8 @@
       <file leaf-file-name="AsyncAwait.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PureJS/AsyncAwait.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="323">
+              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -200,27 +204,7 @@
             <path>
               <item name="WhatILearntToday" type="b2602c69:ProjectViewProjectNode" />
               <item name="WhatILearntToday" type="462c0819:PsiDirectoryNode" />
-              <item name="Backend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WhatILearntToday" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WhatILearntToday" type="462c0819:PsiDirectoryNode" />
-              <item name="CSSTricks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WhatILearntToday" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WhatILearntToday" type="462c0819:PsiDirectoryNode" />
-              <item name="FullStack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WhatILearntToday" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WhatILearntToday" type="462c0819:PsiDirectoryNode" />
-              <item name="IDETricks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WhatILearntToday" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WhatILearntToday" type="462c0819:PsiDirectoryNode" />
-              <item name="ReactTips" type="462c0819:PsiDirectoryNode" />
+              <item name="PureJS" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -298,7 +282,7 @@
       <workItem from="1528292203678" duration="3722000" />
       <workItem from="1528363595354" duration="4983000" />
       <workItem from="1528724960662" duration="255000" />
-      <workItem from="1528802044603" duration="884000" />
+      <workItem from="1528802044603" duration="1277000" />
     </task>
     <task id="LOCAL-00001" summary="prettier">
       <created>1527262452523</created>
@@ -363,11 +347,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528725193145</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="async await construction">
+      <created>1528802947419</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1528802947419</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18443000" />
+    <option name="totallyTimeSpent" value="18836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -407,7 +398,8 @@
     <MESSAGE value="passport google auth strategy" />
     <MESSAGE value=" add cb" />
     <MESSAGE value="run two servers simultaneously" />
-    <option name="LAST_COMMIT_MESSAGE" value="run two servers simultaneously" />
+    <MESSAGE value="async await construction" />
+    <option name="LAST_COMMIT_MESSAGE" value="async await construction" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -416,14 +408,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ReactTips/React16.3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSSTricks/SimpleTags.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -752,14 +736,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IDETricks/HowToChangeFileExt.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -798,10 +774,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1528803295295" expanded="true" signature="43691:43733" ph="..." />
+            <marker date="1528803295295" expanded="true" signature="43691:43751" ph="..." />
+            <marker date="1528803295295" expanded="true" signature="43691:43764" ph="..." />
+            <marker date="1528803295295" expanded="true" signature="43691:43779" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PureJS/AsyncAwait.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="323">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
           <folding />
         </state>
       </provider>

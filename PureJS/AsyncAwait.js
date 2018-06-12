@@ -10,10 +10,11 @@ function fetchAlbumsES2015() {
 fetchAlbumsES2015();
 
 //with async await construction
-
-async function fetchAlbumsES2016() {
+//or async function fetchAlbumsES2016() {
+const fetchAlbumsES2016 = async () =>  {
   const res = await fetch('https://rallycoding.herokuapp.com/api/music_albums');
   const json = await res.json();
   console.log('3', json);
-}
+};
+
 fetchAlbumsES2016();
