@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3be37572-ad83-48fd-b585-640882cfdb2b" name="Default" comment="async await construction">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="3be37572-ad83-48fd-b585-640882cfdb2b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ReactRedux/Store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ReactTips/ReactRouter.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PureJS/AsyncAwait.js" afterPath="$PROJECT_DIR$/PureJS/AsyncAwait.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,16 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="React16.3.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ReactTips/React16.3.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Prettier.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReactTips/Prettier.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -54,16 +44,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReduxForm.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ReactTips/ReduxForm.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PrepareToDeploy.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FullStack/PrepareToDeploy.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -78,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -90,10 +70,9 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1528803295295" expanded="true" signature="43691:43733" ph="..." />
-                <marker date="1528803295295" expanded="true" signature="43691:43751" ph="..." />
-                <marker date="1528803295295" expanded="true" signature="43691:43764" ph="..." />
-                <marker date="1528803295295" expanded="true" signature="43691:43779" ph="..." />
+                <marker date="1528815658085" expanded="true" signature="44449:44466" ph="..." />
+                <marker date="1528815658085" expanded="true" signature="44449:44484" ph="..." />
+                <marker date="1528815658085" expanded="true" signature="44449:44512" ph="..." />
               </folding>
             </state>
           </provider>
@@ -113,7 +92,7 @@
         <entry file="file://$PROJECT_DIR$/FullStack/RunningTwoServersSimultaneously.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -121,12 +100,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AsyncAwait.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AsyncAwait.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PureJS/AsyncAwait.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+              <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Store.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReactRedux/Store.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="73" lean-forward="false" selection-start-line="3" selection-start-column="73" selection-end-line="3" selection-end-column="73" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReactRouter.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ReactTips/ReactRouter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#33#59#0" expanded="true" />
+                <element signature="e#632#658#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -154,6 +159,8 @@
         <option value="$PROJECT_DIR$/Backend/Passport.js" />
         <option value="$PROJECT_DIR$/FullStack/RunningTwoServersSimultaneously.js" />
         <option value="$PROJECT_DIR$/PureJS/AsyncAwait.js" />
+        <option value="$PROJECT_DIR$/ReactRedux/Store.js" />
+        <option value="$PROJECT_DIR$/ReactTips/ReactRouter.js" />
       </list>
     </option>
   </component>
@@ -174,7 +181,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="811" />
+    <option name="x" value="683" />
+    <option name="width" value="683" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectView">
@@ -192,8 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,17 +210,20 @@
             <path>
               <item name="WhatILearntToday" type="b2602c69:ProjectViewProjectNode" />
               <item name="WhatILearntToday" type="462c0819:PsiDirectoryNode" />
-              <item name="PureJS" type="462c0819:PsiDirectoryNode" />
+              <item name="ReactTips" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -282,7 +291,8 @@
       <workItem from="1528292203678" duration="3722000" />
       <workItem from="1528363595354" duration="4983000" />
       <workItem from="1528724960662" duration="255000" />
-      <workItem from="1528802044603" duration="1277000" />
+      <workItem from="1528802044603" duration="2168000" />
+      <workItem from="1528812632153" duration="1059000" />
     </task>
     <task id="LOCAL-00001" summary="prettier">
       <created>1527262452523</created>
@@ -354,11 +364,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528802947419</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="async await construction">
+      <created>1528803333627</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1528803333627</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18836000" />
+    <option name="totallyTimeSpent" value="20786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -408,26 +425,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CSSTricks/SimpleTags.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReactTips/Draggable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2703">
-          <caret line="192" column="18" lean-forward="false" selection-start-line="192" selection-start-column="18" selection-end-line="192" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-            <element signature="n#!!block;n#UNSAFE_componentWillReceiveProps#0;n#DraggableModal#0" expanded="false" />
-            <element signature="n#!!block;n#escFunction#0;n#DraggableModal#0" expanded="false" />
-            <element signature="n#!!block;n#handleOutsideClick#0;n#DraggableModal#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ReactTips/Prettier.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -686,7 +683,7 @@
         <state relative-caret-position="2703">
           <caret line="192" column="18" lean-forward="false" selection-start-line="192" selection-start-column="18" selection-end-line="192" selection-end-column="18" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="false" />
             <element signature="n#!!block;n#UNSAFE_componentWillReceiveProps#0;n#DraggableModal#0" expanded="false" />
             <element signature="n#!!block;n#escFunction#0;n#DraggableModal#0" expanded="false" />
             <element signature="n#!!block;n#handleOutsideClick#0;n#DraggableModal#0" expanded="false" />
@@ -707,7 +704,7 @@
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#0#45#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -767,7 +764,7 @@
     <entry file="file://$PROJECT_DIR$/FullStack/RunningTwoServersSimultaneously.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -779,10 +776,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1528803295295" expanded="true" signature="43691:43733" ph="..." />
-            <marker date="1528803295295" expanded="true" signature="43691:43751" ph="..." />
-            <marker date="1528803295295" expanded="true" signature="43691:43764" ph="..." />
-            <marker date="1528803295295" expanded="true" signature="43691:43779" ph="..." />
+            <marker date="1528815658085" expanded="true" signature="44449:44466" ph="..." />
+            <marker date="1528815658085" expanded="true" signature="44449:44484" ph="..." />
+            <marker date="1528815658085" expanded="true" signature="44449:44512" ph="..." />
           </folding>
         </state>
       </provider>
@@ -790,7 +786,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -798,8 +794,30 @@
     <entry file="file://$PROJECT_DIR$/PureJS/AsyncAwait.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactRedux/Store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="73" lean-forward="false" selection-start-line="3" selection-start-column="73" selection-end-line="3" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReactTips/ReactRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#33#59#0" expanded="true" />
+            <element signature="e#632#658#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
