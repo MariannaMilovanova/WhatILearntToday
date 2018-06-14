@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3be37572-ad83-48fd-b585-640882cfdb2b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Backend/Middleware.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PureJS/HOFunc.js" afterPath="$PROJECT_DIR$/PureJS/HOFunc.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,18 +31,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HowToChangeFileExt.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IDETricks/HowToChangeFileExt.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
@@ -59,10 +47,10 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1528965592760" expanded="true" signature="45578:45595" ph="..." />
-                <marker date="1528965592760" expanded="true" signature="45578:45613" ph="..." />
-                <marker date="1528965592760" expanded="true" signature="45578:45626" ph="..." />
-                <marker date="1528965592760" expanded="true" signature="45578:45641" ph="..." />
+                <marker date="1528969494516" expanded="true" signature="45997:46014" ph="..." />
+                <marker date="1528969494516" expanded="true" signature="45997:46032" ph="..." />
+                <marker date="1528969494516" expanded="true" signature="45997:46045" ph="..." />
+                <marker date="1528969494516" expanded="true" signature="45997:46060" ph="..." />
               </folding>
             </state>
           </provider>
@@ -100,11 +88,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HOFunc.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HOFunc.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PureJS/HOFunc.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="499">
               <caret line="51" column="31" lean-forward="true" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Middleware.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Backend/Middleware.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="68" lean-forward="false" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -162,6 +160,7 @@
         <option value="$PROJECT_DIR$/ReactRedux/Store.js" />
         <option value="$PROJECT_DIR$/ReactTips/ReactRouter.js" />
         <option value="$PROJECT_DIR$/PureJS/HOFunc.js" />
+        <option value="$PROJECT_DIR$/Backend/Middleware.js" />
       </list>
     </option>
   </component>
@@ -207,6 +206,11 @@
             <path>
               <item name="WhatILearntToday" type="b2602c69:ProjectViewProjectNode" />
               <item name="WhatILearntToday" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WhatILearntToday" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WhatILearntToday" type="462c0819:PsiDirectoryNode" />
+              <item name="Backend" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WhatILearntToday" type="b2602c69:ProjectViewProjectNode" />
@@ -298,7 +302,7 @@
       <workItem from="1528363595354" duration="4983000" />
       <workItem from="1528724960662" duration="255000" />
       <workItem from="1528802044603" duration="2168000" />
-      <workItem from="1528812632153" duration="2325000" />
+      <workItem from="1528812632153" duration="3052000" />
     </task>
     <task id="LOCAL-00001" summary="prettier">
       <created>1527262452523</created>
@@ -398,11 +402,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528965405432</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="func inside func">
+      <created>1528965599544</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1528965599544</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22052000" />
+    <option name="totallyTimeSpent" value="22779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -454,16 +465,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IDETricks/HowToChangeFileExt.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ReactTips/ReduxForm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -795,10 +796,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1528965592760" expanded="true" signature="45578:45595" ph="..." />
-            <marker date="1528965592760" expanded="true" signature="45578:45613" ph="..." />
-            <marker date="1528965592760" expanded="true" signature="45578:45626" ph="..." />
-            <marker date="1528965592760" expanded="true" signature="45578:45641" ph="..." />
+            <marker date="1528969494516" expanded="true" signature="45997:46014" ph="..." />
+            <marker date="1528969494516" expanded="true" signature="45997:46032" ph="..." />
+            <marker date="1528969494516" expanded="true" signature="45997:46045" ph="..." />
+            <marker date="1528969494516" expanded="true" signature="45997:46060" ph="..." />
           </folding>
         </state>
       </provider>
@@ -845,6 +846,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="499">
           <caret line="51" column="31" lean-forward="true" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/Middleware.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="68" lean-forward="false" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
           <folding />
         </state>
       </provider>
