@@ -14,5 +14,5 @@ app.get(
     res.redirect('/surveys');
     next();
   },
-  () => console.log('next');
+  () => console.log('next')
 );

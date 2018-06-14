@@ -47,10 +47,10 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1528969494516" expanded="true" signature="45997:46014" ph="..." />
-                <marker date="1528969494516" expanded="true" signature="45997:46032" ph="..." />
-                <marker date="1528969494516" expanded="true" signature="45997:46045" ph="..." />
-                <marker date="1528969494516" expanded="true" signature="45997:46060" ph="..." />
+                <marker date="1528969521275" expanded="true" signature="46312:46329" ph="..." />
+                <marker date="1528969521275" expanded="true" signature="46312:46347" ph="..." />
+                <marker date="1528969521275" expanded="true" signature="46312:46360" ph="..." />
+                <marker date="1528969521275" expanded="true" signature="46312:46375" ph="..." />
               </folding>
             </state>
           </provider>
@@ -101,8 +101,8 @@
       <file leaf-file-name="Middleware.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Backend/Middleware.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="68" lean-forward="false" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+            <state relative-caret-position="272">
+              <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -302,7 +302,7 @@
       <workItem from="1528363595354" duration="4983000" />
       <workItem from="1528724960662" duration="255000" />
       <workItem from="1528802044603" duration="2168000" />
-      <workItem from="1528812632153" duration="3052000" />
+      <workItem from="1528812632153" duration="3078000" />
     </task>
     <task id="LOCAL-00001" summary="prettier">
       <created>1527262452523</created>
@@ -409,11 +409,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528965599544</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="middleware">
+      <created>1528969511026</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1528969511027</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22779000" />
+    <option name="totallyTimeSpent" value="22805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -456,7 +463,8 @@
     <MESSAGE value="async await construction" />
     <MESSAGE value="react-router" />
     <MESSAGE value="func inside func" />
-    <option name="LAST_COMMIT_MESSAGE" value="func inside func" />
+    <MESSAGE value="middleware" />
+    <option name="LAST_COMMIT_MESSAGE" value="middleware" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -796,10 +804,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1528969494516" expanded="true" signature="45997:46014" ph="..." />
-            <marker date="1528969494516" expanded="true" signature="45997:46032" ph="..." />
-            <marker date="1528969494516" expanded="true" signature="45997:46045" ph="..." />
-            <marker date="1528969494516" expanded="true" signature="45997:46060" ph="..." />
+            <marker date="1528969521275" expanded="true" signature="46312:46329" ph="..." />
+            <marker date="1528969521275" expanded="true" signature="46312:46347" ph="..." />
+            <marker date="1528969521275" expanded="true" signature="46312:46360" ph="..." />
+            <marker date="1528969521275" expanded="true" signature="46312:46375" ph="..." />
           </folding>
         </state>
       </provider>
@@ -852,8 +860,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Backend/Middleware.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="68" lean-forward="false" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+        <state relative-caret-position="272">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
           <folding />
         </state>
       </provider>
