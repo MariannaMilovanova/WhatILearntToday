@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3be37572-ad83-48fd-b585-640882cfdb2b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ReactRedux/Store.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ReactTips/ReactRouter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PureJS/HOFunc.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -44,16 +43,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrepareToDeploy.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FullStack/PrepareToDeploy.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
@@ -70,9 +59,10 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1528815658085" expanded="true" signature="44449:44466" ph="..." />
-                <marker date="1528815658085" expanded="true" signature="44449:44484" ph="..." />
-                <marker date="1528815658085" expanded="true" signature="44449:44512" ph="..." />
+                <marker date="1528965280269" expanded="true" signature="44908:44925" ph="..." />
+                <marker date="1528965280269" expanded="true" signature="44908:44943" ph="..." />
+                <marker date="1528965280269" expanded="true" signature="44908:44956" ph="..." />
+                <marker date="1528965280269" expanded="true" signature="44908:44971" ph="..." />
               </folding>
             </state>
           </provider>
@@ -103,8 +93,18 @@
       <file leaf-file-name="AsyncAwait.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PureJS/AsyncAwait.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="221">
+              <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HOFunc.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PureJS/HOFunc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="31" column="23" lean-forward="false" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -122,11 +122,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReactRouter.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReactRouter.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReactTips/ReactRouter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#33#59#0" expanded="true" />
@@ -161,6 +161,7 @@
         <option value="$PROJECT_DIR$/PureJS/AsyncAwait.js" />
         <option value="$PROJECT_DIR$/ReactRedux/Store.js" />
         <option value="$PROJECT_DIR$/ReactTips/ReactRouter.js" />
+        <option value="$PROJECT_DIR$/PureJS/HOFunc.js" />
       </list>
     </option>
   </component>
@@ -181,9 +182,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="683" />
-    <option name="width" value="683" />
-    <option name="height" value="728" />
+    <option name="x" value="674" />
+    <option name="width" value="697" />
+    <option name="height" value="732" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -206,6 +207,11 @@
             <path>
               <item name="WhatILearntToday" type="b2602c69:ProjectViewProjectNode" />
               <item name="WhatILearntToday" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WhatILearntToday" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WhatILearntToday" type="462c0819:PsiDirectoryNode" />
+              <item name="PureJS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WhatILearntToday" type="b2602c69:ProjectViewProjectNode" />
@@ -292,7 +298,7 @@
       <workItem from="1528363595354" duration="4983000" />
       <workItem from="1528724960662" duration="255000" />
       <workItem from="1528802044603" duration="2168000" />
-      <workItem from="1528812632153" duration="1059000" />
+      <workItem from="1528812632153" duration="2012000" />
     </task>
     <task id="LOCAL-00001" summary="prettier">
       <created>1527262452523</created>
@@ -371,11 +377,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528803333627</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="react-router">
+      <created>1528815673318</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1528815673318</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20786000" />
+    <option name="totallyTimeSpent" value="21739000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -416,7 +429,8 @@
     <MESSAGE value=" add cb" />
     <MESSAGE value="run two servers simultaneously" />
     <MESSAGE value="async await construction" />
-    <option name="LAST_COMMIT_MESSAGE" value="async await construction" />
+    <MESSAGE value="react-router" />
+    <option name="LAST_COMMIT_MESSAGE" value="react-router" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -425,16 +439,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ReactTips/Prettier.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IDETricks/HowToChangeFileExt.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -776,9 +780,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1528815658085" expanded="true" signature="44449:44466" ph="..." />
-            <marker date="1528815658085" expanded="true" signature="44449:44484" ph="..." />
-            <marker date="1528815658085" expanded="true" signature="44449:44512" ph="..." />
+            <marker date="1528965280269" expanded="true" signature="44908:44925" ph="..." />
+            <marker date="1528965280269" expanded="true" signature="44908:44943" ph="..." />
+            <marker date="1528965280269" expanded="true" signature="44908:44956" ph="..." />
+            <marker date="1528965280269" expanded="true" signature="44908:44971" ph="..." />
           </folding>
         </state>
       </provider>
@@ -787,14 +792,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PureJS/AsyncAwait.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -811,13 +808,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ReactTips/ReactRouter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#33#59#0" expanded="true" />
             <element signature="e#632#658#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PureJS/AsyncAwait.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PureJS/HOFunc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="31" column="23" lean-forward="false" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
