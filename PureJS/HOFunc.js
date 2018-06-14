@@ -47,3 +47,10 @@ export const fetchUser4 = () => async dispatch  => {
   });
 };
 
+
+export const fetchUser5 = () =>
+  async dispatch  => dispatch({
+    type: FETCH_USER,
+    payload: await axios.get('/api/current_user')
+  });
+

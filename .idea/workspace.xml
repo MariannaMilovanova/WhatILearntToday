@@ -59,10 +59,10 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1528965398216" expanded="true" signature="45286:45303" ph="..." />
-                <marker date="1528965398216" expanded="true" signature="45286:45321" ph="..." />
-                <marker date="1528965398216" expanded="true" signature="45286:45334" ph="..." />
-                <marker date="1528965398216" expanded="true" signature="45286:45349" ph="..." />
+                <marker date="1528965592760" expanded="true" signature="45578:45595" ph="..." />
+                <marker date="1528965592760" expanded="true" signature="45578:45613" ph="..." />
+                <marker date="1528965592760" expanded="true" signature="45578:45626" ph="..." />
+                <marker date="1528965592760" expanded="true" signature="45578:45641" ph="..." />
               </folding>
             </state>
           </provider>
@@ -103,8 +103,8 @@
       <file leaf-file-name="HOFunc.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PureJS/HOFunc.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+            <state relative-caret-position="499">
+              <caret line="51" column="31" lean-forward="true" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -298,7 +298,7 @@
       <workItem from="1528363595354" duration="4983000" />
       <workItem from="1528724960662" duration="255000" />
       <workItem from="1528802044603" duration="2168000" />
-      <workItem from="1528812632153" duration="2130000" />
+      <workItem from="1528812632153" duration="2325000" />
     </task>
     <task id="LOCAL-00001" summary="prettier">
       <created>1527262452523</created>
@@ -391,11 +391,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528965294643</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="func inside func">
+      <created>1528965405432</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1528965405432</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21857000" />
+    <option name="totallyTimeSpent" value="22052000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -788,10 +795,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1528965398216" expanded="true" signature="45286:45303" ph="..." />
-            <marker date="1528965398216" expanded="true" signature="45286:45321" ph="..." />
-            <marker date="1528965398216" expanded="true" signature="45286:45334" ph="..." />
-            <marker date="1528965398216" expanded="true" signature="45286:45349" ph="..." />
+            <marker date="1528965592760" expanded="true" signature="45578:45595" ph="..." />
+            <marker date="1528965592760" expanded="true" signature="45578:45613" ph="..." />
+            <marker date="1528965592760" expanded="true" signature="45578:45626" ph="..." />
+            <marker date="1528965592760" expanded="true" signature="45578:45641" ph="..." />
           </folding>
         </state>
       </provider>
@@ -836,8 +843,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PureJS/HOFunc.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        <state relative-caret-position="499">
+          <caret line="51" column="31" lean-forward="true" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
           <folding />
         </state>
       </provider>
